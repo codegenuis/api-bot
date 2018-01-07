@@ -1,0 +1,21 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "restapi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "angular": "^1.6.6",
+    "angular-route": "^1.6.6",
+    "body-parser": "*",
+    "bootstrap": "3",
+    "express": "*",
+    "jquery": "^3.2.1",
+    "mongoose": "^4.10.8",
+    "yarn-install": "^0.5.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
