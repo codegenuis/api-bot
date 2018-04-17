@@ -16,7 +16,6 @@
     "jquery": "^3.2.1",
     "mongojs": "^2.5.0",
     "mongoose": "^4.10.8",
-    "yarn-install": "*"
   },
   "author": "",
   "license": "ISC"
