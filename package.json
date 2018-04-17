@@ -13,9 +13,11 @@
     "bootstrap": "3",
     "ejs": "^2.5.7",
     "express": "*",
+    "install": "^0.11.0",
     "jquery": "^3.2.1",
     "mongojs": "^2.5.0",
-    "mongoose": "^4.10.8"
+    "mongoose": "^4.10.8",
+    "yarn": "^1.6.0"
   },
   "author": "",
   "license": "ISC"
