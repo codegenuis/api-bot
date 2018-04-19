@@ -15,7 +15,7 @@ router.get('/tasks', function(req, res, next){
 
 //Get Single Tasks
 router.get('/task', function(req, res, next){
-	db.tasks.findOne({_id: mongojs.ObjectId(req.query.id)},function(err,task){
+	db.tasks.findOne({course_name: (req.query.course)},function(err,task){
 		if(err){
 			res.send(err);
 		}
